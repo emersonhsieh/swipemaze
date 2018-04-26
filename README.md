@@ -1,5 +1,7 @@
 # Swipe Maze
 
+## Description
+
 [Swipe Maze](http://swipemaze.com) is a game that I made from 2013/06 to 2013/10. In the game, the player swipes on the screen for the red ball to reach the flag. 
 
 Rules:
@@ -9,6 +11,7 @@ Rules:
 
 Created with [Lua](http://lua.org) and [Corona SDK](http://coronalabs.com).
 
+## Screenshots
 
 <p align="center">
   <img src="https://static.tumblr.com/689f539a54f97faf2f1946f38acf019c/btccacd/13Vmvobha/tumblr_static_promotumblr.png" height="70%" width="70%">
