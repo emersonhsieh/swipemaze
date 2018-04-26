@@ -7,6 +7,7 @@
 - Tapping the screen stops the ball at its current location.
 - Spikes kill the player.
 - Arrow adds impulse to the ball.
+- T-shaped switches activate secret portals.
 
 ## Technologies Used
 - Created with [Lua](http://lua.org) and [Corona SDK](http://coronalabs.com).
