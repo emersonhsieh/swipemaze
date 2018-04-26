@@ -1,6 +1,6 @@
 # Swipe Maze
 
-[Swipe Maze](http://swipemaze.com) is a game that I made from 2013/06 to 2013/10. In the game, the player swipes on the screen for the red ball to reach the flag. 
+[Swipe Maze](http://swipemaze.com) is a game that I made between middle school and my freshman year of high school, or from 2013/06 to 2013/10. In the game, the player swipes on the screen for the red ball to reach the flag. 
 
 Rules:
 - The longer the player swipes, the faster the ball goes.
