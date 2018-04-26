@@ -16,7 +16,7 @@
 When testing the game, move all images from the `app/images` directory to the `app` directory.
 
 ## Demo
-<a href="https://www.emersonhsieh.com">
+<a href="http://www.emersonhsieh.com">
 
 <p align="center">
   <img src="https://i.imgur.com/EmwxTYQ.gif" height="50%" width="50%">
