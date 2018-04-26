@@ -23,9 +23,10 @@ When testing the game, move all images from the `app/images` directory to the `a
 <br/>
 <br/>
 
+<a href="https://www.emersonhsieh.com">
 <p align="center">
   <img src="https://static.tumblr.com/689f539a54f97faf2f1946f38acf019c/btccacd/13Vmvobha/tumblr_static_promotumblr.png" height="80%" width="80%">
-</p>
+</p></a>
 
 <br/>
 <br/>
